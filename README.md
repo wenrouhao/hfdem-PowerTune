@@ -7,7 +7,7 @@
 - 设备：小米13 (fuxi)
 - 系统：HyperOS3
 - 内核：[hfdem 内核](https://github.com/hfdem/android_gki_kernel_5.15_common.git)
-- 调度：schedhorizon
+- 调度：[schedhorizon](https://github.com/hfdem/android_gki_kernel_5.15_common/releases)
 - 框架：KernelSU + Hybrid Mount 元模块
 
 ## 功能概述
